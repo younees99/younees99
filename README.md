@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @younees99
-- 👀 I’m interested in Fullstack Develping and Ißm willing to learn Machine Learning one day
+- 👀 I’m interested in Fullstack Develping and I?m willing to learn Machine Learning one day
 - 🌱 I’m currently learning PHP an JavaScript
 - 💞️ I’m looking to collaborate on any project
 - 📫 How to reach me: younesmalki213@gmail.com
